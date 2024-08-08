@@ -1,0 +1,1 @@
+tesserocr @ file:///C:/Users/ofbt/Age-Untick/tesserocr-2.7.0-cp312-cp312-win_amd64.whl#sha256=93341971973e1bcf3ab1aa57f083b7298d77af1e3426a78bfd41a35abf22523c
