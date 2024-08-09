@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # Get medicine data from MFDS (Ministry of Food and Drug Safety of the Republic of Korea)
 import os
-import requests
 from dotenv import load_dotenv, dotenv_values
+import requests
 
 load_dotenv()
 

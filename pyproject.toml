@@ -9,6 +9,7 @@ dynamic = ["version"]
 dependencies = [
     "google-cloud-vision",
     "google-cloud-storage",
+    "google-generativeai",
     "pillow"
 ]
 

@@ -4,6 +4,7 @@ import sys
 import os
 import json
 import glob
+
 from google.cloud import vision
 from google.cloud import storage
 
