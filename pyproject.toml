@@ -11,3 +11,9 @@ dependencies = [
     "google-cloud-storage",
     "pillow"
 ]
+
+[project.optional-dependencies]
+dev = [
+    "setuptools",
+    "python-dotenv"
+]
